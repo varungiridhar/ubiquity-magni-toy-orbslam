@@ -1,0 +1,2 @@
+monoslam
+-DCATKIN_DEVEL_PREFIX=/home/vishalg/winter_2021_robotics/devel -DCMAKE_INSTALL_PREFIX=/home/vishalg/winter_2021_robotics/install -G Unix Makefiles
