@@ -7,6 +7,5 @@ Russo L.O., Rosa S., Bona B., Matteucci M., "A ROS implementation of the mono-sl
 
 # Usage:
     
-    #setting up environment variables
     rosrun monoslam slam.py
     
