@@ -9,3 +9,13 @@ Russo L.O., Rosa S., Bona B., Matteucci M., "A ROS implementation of the mono-sl
     
     rosrun monoslam slam.py
     
+# Tests:
+
+Straight line test:
+
+Curve line test:
+
+
+
+
+    
