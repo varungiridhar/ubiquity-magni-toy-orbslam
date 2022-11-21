@@ -1,8 +1,0 @@
-prefix=/home/vishalg/winter_2021_robotics/devel
-
-Name: monoslam
-Description: Description of monoslam
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

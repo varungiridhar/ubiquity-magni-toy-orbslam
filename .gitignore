@@ -1,0 +1,6 @@
+# ignore mac system files
+.DS_store
+
+# ignore catkin worspace files
+*.catkin_workspace
+
