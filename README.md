@@ -1,4 +1,4 @@
-# MonoSLAM-Robotics
+# Ubiquity Magni toy SLAM implementation
 A ROS implementation of Monocular ORB-SLAM (Simultaneous Localization and Mapping) algorithm. It adapts the work underlying two papers into the ROS infrastructure of a Ubuiqity Magni. 
 
 References: Mur-Artal, Raul, Jose Maria Martinez Montiel, and Juan D. Tardos. "ORB-SLAM: a versatile and accurate monocular SLAM system." IEEE transactions on robotics 31.5 (2015): 1147-1163
