@@ -5,7 +5,7 @@ References: Mur-Artal, Raul, Jose Maria Martinez Montiel, and Juan D. Tardos. "O
 
 Russo L.O., Rosa S., Bona B., Matteucci M., "A ROS implementation of the mono-slam algorithm", International Journal of Computer Science & Information Technology, Vol. 6 Issue 1, p339.
 
-Code: https://github.com/geohot/twitchslam
+Code heavily inspired from George Hotz: https://github.com/geohot/twitchslam
 https://github.com/appliedAI-Initiative/orb_slam_2_ros
 # Usage:
     
